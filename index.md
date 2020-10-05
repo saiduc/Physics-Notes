@@ -14,7 +14,7 @@
 1. [Two Electron Atoms and Ions](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/saiduc/Physics-Notes/main/assets/AtomicPhysics/11) Two Electron Atoms and Ions.pdf)
 1. [Multi-Electron Atoms](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/saiduc/Physics-Notes/main/assets/AtomicPhysics/12) Multi-Electron Atoms.pdf)
 
-<a href="saiduc.github.io/Physics-Notes/assets/AtomicPhysics/01) Quantum Mechanics Revision.pdf" target="_blank">PDF.</a>
+<a href="/assets/AtomicPhysics/01) Quantum Mechanics Revision.pdf" target="_blank">Test Link</a>
 
 
 
