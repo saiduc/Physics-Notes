@@ -146,23 +146,23 @@
 1. <a href="https://saiduc.github.io/Physics-Notes/assets/NucleiAndParticles/19) Parity Charge Conjugation and CP.pdf" target="_blank">Parity Charge Conjugation and CP</a>
 
 ### PHYS3007 Theories of Matter, Space & Time
-1. <a href="https://saiduc.github.io/Physics-Notes/assets/ElectricityAndMagnetism/01) Least Action - Optics.pdf" target="_blank">Least Action - Optics</a>
-1. <a href="https://saiduc.github.io/Physics-Notes/assets/ElectricityAndMagnetism/02) Least Action - Newtonian Dynamics.pdf" target="_blank">Least Action - Newtonian Dynamics</a>
-1. <a href="https://saiduc.github.io/Physics-Notes/assets/ElectricityAndMagnetism/03) Least Action - Conservation Laws.pdf" target="_blank">Least Action - Conservation Laws</a>
-1. <a href="https://saiduc.github.io/Physics-Notes/assets/ElectricityAndMagnetism/04) Lorentz Transformations.pdf" target="_blank">Lorentz Transformations</a>
-1. <a href="https://saiduc.github.io/Physics-Notes/assets/ElectricityAndMagnetism/05) An Analogy to Rotations.pdf" target="_blank">An Analogy to Rotations</a>
-1. <a href="https://saiduc.github.io/Physics-Notes/assets/ElectricityAndMagnetism/06) Four Vectors.pdf" target="_blank">Four Vectors</a>
-1. <a href="https://saiduc.github.io/Physics-Notes/assets/ElectricityAndMagnetism/07) The Laws of Dynamics.pdf" target="_blank">The Laws of Dynamics</a>
-1. <a href="https://saiduc.github.io/Physics-Notes/assets/ElectricityAndMagnetism/08) Physics with Four Momentum.pdf" target="_blank">Physics with Four Momentum</a>
-1. <a href="https://saiduc.github.io/Physics-Notes/assets/ElectricityAndMagnetism/09) Tensors.pdf" target="_blank">Tensors</a>
-1. <a href="https://saiduc.github.io/Physics-Notes/assets/ElectricityAndMagnetism/10) Integral Form of Maxwells Equations.pdf" target="_blank">Integral Form of Maxwells Equations</a>
-1. <a href="https://saiduc.github.io/Physics-Notes/assets/ElectricityAndMagnetism/11) Differential Form of Maxwells Equations.pdf" target="_blank">Differential Form of Maxwells Equations</a>
-1. <a href="https://saiduc.github.io/Physics-Notes/assets/ElectricityAndMagnetism/12) Electromagnetic Potentials.pdf" target="_blank">Electromagnetic Potentials</a>
-1. <a href="https://saiduc.github.io/Physics-Notes/assets/ElectricityAndMagnetism/13) Relativistic Formulation of Electromagnetism.pdf" target="_blank">Relativistic Formulation of Electromagnetism</a>
-1. <a href="https://saiduc.github.io/Physics-Notes/assets/ElectricityAndMagnetism/14) Lagrangian for a Charged Particle.pdf" target="_blank">Lagrangian for a Charged Particle</a>
-1. <a href="https://saiduc.github.io/Physics-Notes/assets/ElectricityAndMagnetism/15) Non-Relativistic Quantum Mechanics.pdf" target="_blank">Non-Relativistic Quantum Mechanics</a>
-1. <a href="https://saiduc.github.io/Physics-Notes/assets/ElectricityAndMagnetism/16) Path Integral Approach to QM.pdf" target="_blank">Path Integral Approach to QM</a>
-1. <a href="https://saiduc.github.io/Physics-Notes/assets/ElectricityAndMagnetism/17) Relativistic Quantum Mechanics.pdf" target="_blank">Relativistic Quantum Mechanics</a>
+1. <a href="https://saiduc.github.io/Physics-Notes/assets/TheoriesOfMatterSpaceAndTime/01) Least Action - Optics.pdf" target="_blank">Least Action - Optics</a>
+1. <a href="https://saiduc.github.io/Physics-Notes/assets/TheoriesOfMatterSpaceAndTime/02) Least Action - Newtonian Dynamics.pdf" target="_blank">Least Action - Newtonian Dynamics</a>
+1. <a href="https://saiduc.github.io/Physics-Notes/assets/TheoriesOfMatterSpaceAndTime/03) Least Action - Conservation Laws.pdf" target="_blank">Least Action - Conservation Laws</a>
+1. <a href="https://saiduc.github.io/Physics-Notes/assets/TheoriesOfMatterSpaceAndTime/04) Lorentz Transformations.pdf" target="_blank">Lorentz Transformations</a>
+1. <a href="https://saiduc.github.io/Physics-Notes/assets/TheoriesOfMatterSpaceAndTime/05) An Analogy to Rotations.pdf" target="_blank">An Analogy to Rotations</a>
+1. <a href="https://saiduc.github.io/Physics-Notes/assets/TheoriesOfMatterSpaceAndTime/06) Four Vectors.pdf" target="_blank">Four Vectors</a>
+1. <a href="https://saiduc.github.io/Physics-Notes/assets/TheoriesOfMatterSpaceAndTime/07) The Laws of Dynamics.pdf" target="_blank">The Laws of Dynamics</a>
+1. <a href="https://saiduc.github.io/Physics-Notes/assets/TheoriesOfMatterSpaceAndTime/08) Physics with Four Momentum.pdf" target="_blank">Physics with Four Momentum</a>
+1. <a href="https://saiduc.github.io/Physics-Notes/assets/TheoriesOfMatterSpaceAndTime/09) Tensors.pdf" target="_blank">Tensors</a>
+1. <a href="https://saiduc.github.io/Physics-Notes/assets/TheoriesOfMatterSpaceAndTime/10) Integral Form of Maxwells Equations.pdf" target="_blank">Integral Form of Maxwells Equations</a>
+1. <a href="https://saiduc.github.io/Physics-Notes/assets/TheoriesOfMatterSpaceAndTime/11) Differential Form of Maxwells Equations.pdf" target="_blank">Differential Form of Maxwells Equations</a>
+1. <a href="https://saiduc.github.io/Physics-Notes/assets/TheoriesOfMatterSpaceAndTime/12) Electromagnetic Potentials.pdf" target="_blank">Electromagnetic Potentials</a>
+1. <a href="https://saiduc.github.io/Physics-Notes/assets/TheoriesOfMatterSpaceAndTime/13) Relativistic Formulation of Electromagnetism.pdf" target="_blank">Relativistic Formulation of Electromagnetism</a>
+1. <a href="https://saiduc.github.io/Physics-Notes/assets/TheoriesOfMatterSpaceAndTime/14) Lagrangian for a Charged Particle.pdf" target="_blank">Lagrangian for a Charged Particle</a>
+1. <a href="https://saiduc.github.io/Physics-Notes/assets/TheoriesOfMatterSpaceAndTime/15) Non-Relativistic Quantum Mechanics.pdf" target="_blank">Non-Relativistic Quantum Mechanics</a>
+1. <a href="https://saiduc.github.io/Physics-Notes/assets/TheoriesOfMatterSpaceAndTime/16) Path Integral Approach to QM.pdf" target="_blank">Path Integral Approach to QM</a>
+1. <a href="https://saiduc.github.io/Physics-Notes/assets/TheoriesOfMatterSpaceAndTime/17) Relativistic Quantum Mechanics.pdf" target="_blank">Relativistic Quantum Mechanics</a>
 
 ### PHYS3008 Atomic Physics
 
