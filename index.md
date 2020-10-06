@@ -1,3 +1,13 @@
+## My Notes
+On this page you will find access to the notes I made during my BSc Physics at
+University of Southampton. I made these notes without the expectation that
+someone else would one day use them, so they may not suit your learning
+style. Because of this, I recommend making your own notes and using these only
+as a supplementary resource.
+
+Please also keep in mind that I made these notes when I was a student, the same
+as you, so there may be some mistakes in them.
+
 ## Year One
 
 ### PHYS1011 Waves, Light & Quanta
